@@ -3,7 +3,7 @@
 ## Clone the Repository into VS Code for CS50 
 
 1. Create a fork of this repository by clicking on the ```Fork``` in the top-right corner of this webpage 
-2. In your local repo that should have the name ```githubusername```/ Coding-I-Problem-Sets click on the Green Code Button 
+2. In your local repo that should have the name ```githubusername/ Coding-I-Problem-Sets``` click on the Green Code Button 
 3. Copy the link under https 
 4. Open ```code.cs50.io``` in a new tab in your browswer 
 4. Enter into the workspaces folder by running the command ```cd ..``` or ```cd /workspaces``` in your terminal 
